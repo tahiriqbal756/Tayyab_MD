@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&width=435&lines=My+Name+is+TAYYAB ;Created+by+TAYYAB HACKER ;Fork+Me+and+enjoy !" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&width=435&lines=My+Name+is+TAYYAB ;Created+by+TAYYAB HACKER ;Fork+Me+and+enjoy!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@
 
 <h3 align="left">2️⃣ Download the ZIP File</h3>
 <p align="left">
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/archive/refs/heads/main.zip">
+  <a href="[[https://https://github.com/tahiriqbal756/Tayyab_MD.git)](https://github.com/tahiriqbal756/Tayyab_MD.git)/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/Download%20ZIP-blue?style=for-the-badge&logo=files" alt="Download ZIP" />
   </a>
 </p>
